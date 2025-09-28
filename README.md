@@ -1,7 +1,7 @@
 # TechUp_Final_Project_GROUP-3-Smart-Security-System-with-Password-Access
 ## Smart Security System with Password Access
 
-### 🎯 Project Objective
+### Project Objective
 Design a **Smart Security System** that secures access using:
 - Motion detection (PIR sensor)
 - Password entry (Keypad)
@@ -9,7 +9,7 @@ Design a **Smart Security System** that secures access using:
 - Alarm on wrong password (Buzzer)
 - User feedback on LCD
 
-### 🛠 Components Used
+### Components Used
 - Arduino Uno  
 - PIR sensor  
 - 4x4 Keypad  
